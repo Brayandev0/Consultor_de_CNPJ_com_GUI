@@ -24,6 +24,11 @@ Mensagem de erro :
 
 
 
+Adicionei também tratamento caso o Usuário Insira Letras no Lugar do CNPJ
+
+![image](https://github.com/Brayandev0/Consultor_de_CNPJ_com_interface_gr-fica/assets/84828739/92394d38-6cdc-474b-a434-7e63490a3d7e)
+
+
 caso o CNPJ esteja correto ira abrir a página final de consulta 
 
 pagina de consulta : 
