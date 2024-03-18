@@ -13,6 +13,10 @@ Interface para inserir o CNPJ :
 ![image](https://github.com/Brayandev0/Consultor_de_CNPJ_com_interface_gr-fica/assets/84828739/52ee1efe-a2f7-4b63-b26e-65f8408e75c7)
 
 
+Pagina de Consulta : 
+
+![image](https://github.com/Brayandev0/Consultor_de_CNPJ_com_interface_gr-fica/assets/84828739/45caf89d-4197-472e-a58b-949ec0c9fad0)
+
 
 Após o usuario inserir o CNPJ, adicionei parámetros no código para verificar se o CNPJ é valído 
 caso o CNPJ seja inválido ira retornar uma mensagem de erro e não iniciará a pagina de consulta e requisição da API 
@@ -30,8 +34,3 @@ Adicionei também tratamento caso o Usuário Insira Letras no Lugar do CNPJ
 
 
 caso o CNPJ esteja correto ira abrir a página final de consulta 
-
-pagina de consulta : 
-
-
-![image](https://github.com/Brayandev0/Consultor_de_CNPJ_com_interface_gr-fica/assets/84828739/45caf89d-4197-472e-a58b-949ec0c9fad0)
