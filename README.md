@@ -35,3 +35,8 @@ Adicionei também tratamento caso o Usuário Insira Letras no Lugar do CNPJ
 
 caso o CNPJ esteja correto ira abrir a página final de consulta 
 Link do arquivo .exe :  https://www.mediafire.com/file/gm418mtc3uv65dg/Consultar_CNPJ.exe/file 
+
+
+para utilizar o codigo do programa installe os requerimentos 
+
+pip install -r requeriments.txt
