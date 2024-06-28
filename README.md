@@ -1,7 +1,7 @@
 # Consultor_de_CNPJ_com_interface_grafica
 Consulta de CNPJ
 Um programa simples e intuitivo feito em Python utilizando a biblioteca Flet. Adicionei tratamentos para evitar que o CNPJ inserido seja inválido. O programa utiliza uma API pública para realizar as consultas. Gostaria de deixar meus agradecimentos e créditos aos donos da API: ReceitaWS.
-
+Tecnologias usadas : Python 3.12.3, Protocolos web 
 
 ![image](https://github.com/Brayandev0/Consultor_de_CNPJ_com_interface_gr-fica/assets/84828739/52ee1efe-a2f7-4b63-b26e-65f8408e75c7)
 
