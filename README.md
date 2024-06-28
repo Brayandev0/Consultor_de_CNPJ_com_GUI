@@ -2,20 +2,21 @@
 Consulta de CNPJ
 Um programa simples e intuitivo feito em Python utilizando a biblioteca Flet. Adicionei tratamentos para evitar que o CNPJ inserido seja inválido. O programa utiliza uma API pública para realizar as consultas. Gostaria de deixar meus agradecimentos e créditos aos donos da API: ReceitaWS.
 
-.
-Tecnologias usadas : Python 3.12.3, Flet,Protocolos web 
+
+## Tecnologias usadas 
+Python 3.12.3, Flet,Protocolos web 
 
 ![image](https://github.com/Brayandev0/Consultor_de_CNPJ_com_interface_gr-fica/assets/84828739/52ee1efe-a2f7-4b63-b26e-65f8408e75c7)
 
 
-Pagina de Consulta : 
+## Pagina de Consulta 
 
 ![image](https://github.com/Brayandev0/Consultor_de_CNPJ_com_interface_gr-fica/assets/84828739/45caf89d-4197-472e-a58b-949ec0c9fad0)
 
 
 Após o usuário inserir o CNPJ, o código verifica se o CNPJ é válido. Caso o CNPJ seja inválido, uma mensagem de erro é exibida, e a consulta não é iniciada.
 
-Mensagem de erro:
+## Tratamento de erros
 
 ![image](https://github.com/Brayandev0/Consultor_de_CNPJ_com_interface_gr-fica/assets/84828739/032d983e-0979-4791-b6c5-5c783e308f21)
 
